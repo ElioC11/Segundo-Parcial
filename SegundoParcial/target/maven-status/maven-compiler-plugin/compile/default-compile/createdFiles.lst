@@ -1,0 +1,9 @@
+com\example\practicaparcial\services\OrdenService.class
+com\example\practicaparcial\PracticaparcialApplication.class
+com\example\practicaparcial\response\ResponseDTO.class
+com\example\practicaparcial\request\RequestDTO.class
+com\example\practicaparcial\response\OrdenResponse.class
+com\example\practicaparcial\controllers\OrdenController.class
+com\example\practicaparcial\models\Orden.class
+com\example\practicaparcial\repositories\OrdenRepository.class
+com\example\practicaparcial\request\Request.class
